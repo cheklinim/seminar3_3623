@@ -114,3 +114,9 @@ VSСode дает возможность выбрать какое изменен
 Чтобы удалить ветку, которая больше не нужно (например после слияния) используется команда
 
     git branch -d <имя_ветки>
+***
+
+## **Remote repository**
+
+* Remote repos required for together development.
+  Managing these remote repositories and pushing and pulling data to and from them and work share.
