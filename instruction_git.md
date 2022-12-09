@@ -120,3 +120,14 @@ VSСode дает возможность выбрать какое изменен
 
 * Remote repos required for together development.
   Managing these remote repositories and pushing and pulling data to and from them and work share.
+
+
+## **Cloning remote repo to local storage**
+
+    git clone
+
+## **Copy and merge data changes from remote repo to local.**
+
+    git pull
+    
+
