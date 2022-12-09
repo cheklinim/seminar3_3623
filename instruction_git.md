@@ -129,5 +129,7 @@ VSСode дает возможность выбрать какое изменен
 ## **Copy and merge data changes from remote repo to local.**
 
     git pull
-    
 
+## Connection with remote repo and tracking local data changes then sent it to remote repo. Authentication required.
+
+    git push
