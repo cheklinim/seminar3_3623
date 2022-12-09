@@ -122,14 +122,16 @@ VSСode дает возможность выбрать какое изменен
   Managing these remote repositories and pushing and pulling data to and from them and work share.
 
 
-## **Cloning remote repo to local storage**
+## Cloning remote repo to local storage
 
     git clone
 
-## **Copy and merge data changes from remote repo to local.**
+## Copy and merge data changes from remote repo to local.
 
     git pull
 
 ## Connection with remote repo and tracking local data changes then sent it to remote repo. Authentication required.
 
     git push
+
+## **GitHub**
