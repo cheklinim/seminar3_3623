@@ -136,3 +136,5 @@ VSСode дает возможность выбрать какое изменен
 
 ## **GitHub**
 * A **FORK** creates copy of Git repository. Changes and updates to the forked repository will be isolated to the fork and will not be reflected in the original repo.
+
+* **Pul request** let you send request and tell about changes you've made to a branch in a repository on GitHub.
