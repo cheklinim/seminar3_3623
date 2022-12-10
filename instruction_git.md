@@ -135,3 +135,4 @@ VSСode дает возможность выбрать какое изменен
     git push
 
 ## **GitHub**
+* A **FORK** creates copy of Git repository. Changes and updates to the forked repository will be isolated to the fork and will not be reflected in the original repo.
