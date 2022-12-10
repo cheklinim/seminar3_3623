@@ -136,5 +136,12 @@ VSСode дает возможность выбрать какое изменен
 
 ## **GitHub**
 * A **FORK** creates copy of Git repository. Changes and updates to the forked repository will be isolated to the fork and will not be reflected in the original repo.
+For executing:
+Go to repo you want to fork.
+Press fork button.
+Check parameters.
+Press Create fork.
 
-* **Pul request** let you send request and tell about changes you've made to a branch in a repository on GitHub.
+
+* **Pull request** let you send request and tell about changes you've made to a branch in a repository on GitHub.
+After git push go to forked repository, switch to branch where changes were made, contribute, open pull request. 
