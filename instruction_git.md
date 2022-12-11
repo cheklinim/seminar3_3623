@@ -128,3 +128,9 @@ VSСode дает возможность выбрать какое изменен
     git remote add origin <address>
     git branch -M <NameMainBranch>
     git push -u origin <NameMainBranch>
+
+### Передача изменений на удалённый репозиторий
+
+Для того что бы передать последние `commit` на удалённый репозиторий необходимо ввести команду:
+
+    git push
